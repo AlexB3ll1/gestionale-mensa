@@ -1,0 +1,14 @@
+dolci,torta alle mele,frutta,uova, , , , ,1,1,0,1,0,0,0,0,1,1
+dolci,tiramisù,mascarpone,uova,biscotti, , , ,1,1,0,1,0,0,0,0,1,1
+dolci,cheesecake ai frutti di bosco,ricotta,frutta, , , , ,1,1,0,0,0,0,0,0,1,1
+dolci,panna e ricotta al caffè,panna,ricotta, , , , ,0,1,0,0,0,0,0,0,1,1
+dolci,sorbetto al limone,limone, , , , , ,0,0,0,1,0,0,0,1,1,1
+dolci,sacher,cioccolato, , , , , ,1,1,0,1,0,0,0,1,1,1
+dolci,dolce panna e fragole,uova,panna,fragole, , , ,0,1,0,0,0,0,0,0,1,1
+dolci,torta della nonna,uova,latte, , , , ,1,1,0,1,0,0,0,0,1,1
+dolci,macedonia di frutta,frutta, , , , , ,0,0,0,0,0,0,0,1,1,1
+dolci,panna cotta,panna, , , , , ,0,1,0,0,0,0,0,0,1,1
+dolci,crema alla catalana,latte,uova, , , , ,0,1,0,1,0,0,0,0,1,1
+dolci,dorayaki,uova, , , , , ,1,0,0,1,0,0,0,0,1,1
+dolci,cream caramel,latte,uova,panna, , , ,0,1,0,1,0,0,0,0,1,1
+dolci,salame al cioccolato,cioccolato,biscotti, , , , ,1,0,0,0,0,0,0,1,1,1

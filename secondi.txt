@@ -1,0 +1,14 @@
+secondi,cotoletta alla milanese con patatine,vitello,uova,pangrattato,patate, , ,1,0,0,1,0,0,0,0,0,0
+secondi,scaloppine al limone,vitello, , , , , ,1,0,0,0,0,0,0,0,0,0
+secondi,arrosto di vitello,vitello,patate, , , , ,0,0,0,0,0,0,0,0,0,0
+secondi,pizza con bufala,mozzarella,pomodoro, , , , ,1,1,0,0,0,0,0,1,1,1
+secondi,polenta e salsiccia,salsiccia,pomodoro, , , , ,1,0,0,0,0,0,0,0,0,0
+secondi,fritto misto pesce,gamberi,acciughe,merluzzo,calamari,pesce, ,1,0,1,0,1,0,1,0,0,1
+secondi,parmigiana,melanzane,pomodoro,mozzarella, , , ,0,1,0,0,0,0,0,1,1,1
+secondi,filetto al pepe e verdure,pesce, , , , , ,0,0,0,0,0,0,0,0,0,1
+secondi,coscie di pollo al forno,pollo,patate, , , , ,0,0,0,0,0,0,0,0,0,1
+secondi,spezzatino di capriolo,carne, , , , , ,0,0,0,0,0,0,0,0,0,1
+secondi,brasato al barolo,carne, , , , , ,0,0,0,0,0,0,0,0,0,1
+secondi,tagliata di carne con verdure e pomodorini,carne,pomodori,insalata,fiocchi di sale, , ,0,0,0,0,1,1,0,0,0,0
+secondi,pesce spada alla siciliana,pesce,pomodori,olive, , , ,0,0,0,0,1,1,0,0,0,1
+secondi,filetto in crosta,carne,salumi,funghi,uova, , ,0,0,0,1,0,0,0,0,0,0

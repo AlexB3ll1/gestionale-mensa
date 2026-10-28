@@ -1,0 +1,5 @@
+contorni,patate al forno,patate, , , , , ,0,0,0,0,0,0,0,1,1,1
+contorni,insalata,insalata,pomodori, , , , ,0,0,0,0,0,0,0,1,1,1
+contorni,patate fritte,patate, , , , , ,0,0,0,0,0,0,0,1,1,1
+contorni,purè di patate,patate,latte, , , , ,0,1,0,0,0,0,0,0,1,1
+contorni,verdure alla griglia,verdure, , , , , ,0,0,0,0,0,0,0,1,1,1

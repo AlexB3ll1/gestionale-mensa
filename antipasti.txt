@@ -1,0 +1,14 @@
+Antipasto,bruschetta,pane,pomodoro, , , , ,1,0,0,0,0,0,0,1,1,1
+antipasto,tagliere salumi,salumi, , , , , ,0,0,0,0,0,0,0,0,0,0
+antipasto,tagliere formaggi,formaggio, , , , , ,0,1,0,0,0,0,0,0,1,1
+antipasto,tagliere salumi e formaggi,salumi,formaggi, , , , ,0,1,0,0,0,0,0,0,0,0
+antipasto,ostriche,ostriche, , , , , ,0,0,1,0,0,0,0,0,0,1
+antipasto,capesante gratinate,pane,capesante, , , , ,1,0,1,0,0,0,0,0,0,1
+antipasto,vitello tonnato,vitello,uova,tonno,acciughe,carne, ,0,0,0,1,1,0,0,0,0,0
+antipasto,olive all'ascolana,olive,carne,pane,uova,pane,formaggio,1,0,0,1,0,0,0,0,0,0
+antipasto,crocchette di patate,patate,formaggio,uova,pane, , ,1,0,0,1,0,0,0,0,1,1
+antipasto,fiori di zucca fritti,fiori di zucca, , , , , ,1,0,0,0,0,0,0,1,1,1
+antipasto,arancini,formaggio,carne,pomodoro,piselli,salumi, ,1,1,0,0,0,0,0,0,0,0
+antipasto,tartare di carne,carne,uova,olive, , , ,0,0,0,0,0,0,0,0,0,0
+antipasto,tartare di pesce,pesce,pomodoro, , , , ,0,0,0,0,1,0,0,0,0,1
+antipasto,gnocco fritto,latte, , , , , ,1,1,0,0,0,0,0,0,1,1

@@ -1,0 +1,14 @@
+primi,pasta al pomodoro,pomodoro,pasta, , , , ,1,0,0,0,0,0,0,1,1,1
+primi,risotto alla salsiccia,carne,formaggio,riso, , , ,0,0,0,0,0,0,0,0,0,0
+primi,tortellini cacio e pepe,uova,formaggio,guanciale,pasta, , ,1,1,0,0,0,0,0,0,0,0
+primi,spaghetti alla carbonara,guanciale,uova,formaggio,pasta, , ,1,0,0,1,0,0,0,0,0,0
+primi,pasta al pesto,pesto,pasta, , , , ,1,0,0,0,0,1,0,1,1,1
+primi,spaghetti alle vongole,vongole,pasta, , , , ,1,0,1,0,0,0,0,0,0,1
+primi,pasta con tonno,pesce,pasta, , , , ,1,0,0,0,1,0,0,0,0,1
+primi,osso buco,carne,cipolle, , , , ,1,1,0,0,0,0,0,0,0,0
+primi,pasta alle nerano,formaggio,pasta, , , , ,1,1,0,0,0,0,0,0,1,1
+primi,pasta con fagioli,fagioli,cipolle,carote,pasta, , ,1,0,0,0,0,0,0,1,1,1
+primi,pasta patate e provola,patate,formaggio,pomodoro,pasta, , ,1,1,0,0,0,0,0,0,1,1
+primi,ravioli di pesce,uova,pesce,gamberi,formaggio,pomodoro, ,1,0,0,0,1,0,1,0,0,1
+primi,riso al nero di seppia con gamberi,gamberi,molluschi,cipolla,riso, , ,0,0,1,0,0,0,1,0,0,1
+primi,pasta allo scoglio,molluschi,crostacei,pomodoro,pasta, , ,0,0,1,0,0,0,1,0,0,1

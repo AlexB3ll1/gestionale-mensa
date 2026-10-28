@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background:url(images/mannaiaallamadonna.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.amore{
+    background-image: url();
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    color: #13a0dc;
+    margin-bottom: 60px;
+}
+iframe{
+    width: 70%;
+    height: 400px;
+    filter: invert(100%);
+}
+.alio{
+ position:absolute;
+ left: 20px;
+ top: 623px;
+left: 227px;
+}
+.alio a{
+    color: #fff;
+    text-decoration: none;
+
+   }
+
+button {
+    position: relative;
+    display: flex;
+    border-radius: 5px;
+    background: #000000;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    border: none;
+    text-decoration: none;
+    user-select: none;
+ 
+   }
+   
+   button:after {
+    content: " ";
+    width: 0%;
+    height: 100%;
+    background: #FFD401;
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+    right: 0;
+  
+   }
+   
+   button:hover::after {
+    right: auto;
+    left: 0;
+    width: 100%;
+   }
+   
+   button span {
+    text-decoration: none;
+    width: 100%;
+    padding: 18px 25px;
+    color: #fff;
+    font-size: 1.125em;
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    z-index: 20;
+    transition: all 0.3s ease-in-out;
+  
+   }
+   
+   button:hover span {
+    color: #183153;
+    animation: scaleUp 0.3s ease-in-out;
+   }
+   
+   @keyframes scaleUp {
+    0% {
+     transform: scale(1);
+    }
+   
+    50% {
+     transform: scale(0.95);
+    }
+   
+    100% {
+     transform: scale(1);
+    }
+   }

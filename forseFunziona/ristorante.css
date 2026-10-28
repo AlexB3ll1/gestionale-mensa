@@ -1,0 +1,760 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    transition: 0.1s;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html{
+    font-size: 65%;
+    scroll-behavior: smooth;
+}
+
+
+.hero{
+  
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
+}
+nav ul li a h1{
+    color: #030303;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+} 
+nav ul li a:hover{
+    color: #03f4f4;
+    transition: .3s;
+}
+span{
+    color: green;
+}
+
+
+
+
+header{
+    box-sizing: border-box;
+    transition: 0.2s;
+    padding: 1rem 7%;
+      position: fixed;
+      left: 0;
+      right: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 100;
+      background: #82b5d2;
+
+  }
+
+
+/* design for home section 
+
+
+
+
+header{
+    top: 0%;
+    width: 100%;
+    height: 80px;
+    box-sizing: border-box;
+    transition: 0.2s;
+    padding: 1rem 7%;
+      position: fixed;
+      left: 0;
+      right: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 100;
+      background: #1d1d23;
+  }
+ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  ul li{
+    list-style: none;
+  }
+  ul li a{
+    color: #ffffff;
+    padding: 0 20px;
+    font-size: 1.6em;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+.icons div{
+    color: white;
+    font-size: 1.5rem;
+    margin-right: 10px;
+    display: none;
+}
+.icons div:hover{
+    cursor: pointer;
+}
+
+.icons a{
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 18px;
+   transition: 0.5s;
+   display: inline-block;
+}
+.contact-btn:hover{
+    transform: scale(1.1);
+    background: var(--btn-color);
+    border: 1px solid white;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* design for home section */
+
+.home{
+    padding: 1rem 7%;
+   background: url(images/marenapoli1.jpg);
+    min-height: 100vh;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.home-inner-content h1{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500%;
+    text-align: center;
+    padding-top: 210px;
+
+
+}
+
+/* design for home section 
+.main-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding-top: 200px;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+
+.home-image{
+    width: 100%;
+    height: 100%;
+    position: relative;    
+}
+.home-image img{
+    width: 100%;
+    position: absolute;
+    transform: translate(0%, -40%);
+    animation: mymove 5s infinite ease-in-out;
+}
+@keyframes mymove {
+    0%   {top: 0px;}
+    50%   {top: 15px;}
+    75%   {top: 10px;}
+    100%   {top: 0px;}
+  }
+.home-text-content{
+    padding: 0 8rem;
+}
+.home-inner-content h1{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.abu-i h1{
+    font-size: 45px;
+    color: lime;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dio-aa h1{
+    font-size: 45px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.home-text-content p{
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+.home-text-content a{
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 18px;
+   display: inline-block;
+}
+.home-text-content a:hover{
+    transform: scale(1.1);
+    background: var(--btn-color);
+    border: 1px solid white;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+
+    padding: 1rem 7%;
+   background: url(images/napolill.jpg);
+    min-height: 100vh;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.about-content{
+    flex: 1 1 45rem;
+}
+.about-inner-content{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.about-content .about-inner-content img{
+    width: 90%;
+    margin-left: 100px;
+    background-position: center;
+}
+.about-text-content{
+    padding: 0 4rem;
+}
+.about-text-content h1{
+    color: blue;
+    font-size: 40px;
+    margin-bottom: 15px;
+   ;
+}
+.about-text-content p{
+    color: black;
+    font-size: 1.5rem;
+    line-height: 35px;
+
+}
+.quality{
+    padding: 4rem 7%;
+    padding: 1rem 7%;
+    background: url(images/controlllo.jpg);
+     min-height: 100vh;
+     height: 100%;
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+   
+}
+
+.main-quality{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.main-inner-quality{
+    flex: 1 1 45rem;
+}
+.quality-content{
+    padding: 0 4rem;
+}
+.quality-content h1{
+    position: relative;
+    top: 250px;
+    color: var(--btn-color) var(--btn-color);
+    color: rgb(106, 243, 250);
+    font-size: 40px;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+}
+.quality-content p{
+    color: var(--about-sec)  var(--btn-color);
+    position: relative;
+    top: 250px;
+    color: black;
+    font-size: 1.5rem;
+    line-height: 30px;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    top: 310px;
+}
+
+
+
+
+.gallery{
+    padding: 4rem 7%;
+    background: var(--about-sec);
+    background: url(images/mareeeeeeee.jpg);
+}
+.gallery h1{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 3rem;
+    color: var(--btn-color);
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+.main-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  
+}
+.inner-gallery{
+    flex: 1 1 400px;
+    
+}
+.inner-gallery .gallery-image img{
+    width: 90%;
+}
+.inner-gallery .gallery-image:hover img{
+    transform: perspective(1000px) rotateX(-4.80deg) rotateY(-10.23deg) scale3d(1.05,1.05,1.05);
+   
+}
+.food-main-content{
+    width: 40%;
+    border: 4px solid white;
+    padding: 2rem;
+}
+.food-main-content h1{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    padding: 1rem 0;
+}
+.food-main-content p{
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1rem 0;
+    line-height: 30px;
+}
+.our-menu-food{
+    padding: 2rem 7%;
+    background-color: var(--about-sec);
+    padding: 1rem 7%;
+   background: url(images/Ristoranti-Romantici-Napoli-Comandante.jpg);
+    min-height: 100vh;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.our-menu-food h1{
+    color: var(--btn-color);
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+.main-menu-food{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+ 
+}
+h2 span a{
+    color: #ffffff;
+    transition: 0.2ms;
+  }
+  h2 a{
+    color: white;
+  }
+.inner-menu-food {
+    flex: 1 1 300px;
+}
+.menu-food-content img{
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+}
+.menu-food-text{
+    padding: 2rem 2rem;
+
+}
+.menu-food-text h2{
+   color: #ffffff;
+   font-size: small;
+   display: block;
+   margin: 0 auto;
+   
+}
+
+
+
+.btn {
+    width: 6.5em;
+    height: 2.3em;
+    margin: 0.5em;
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 0.625em;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+
+   }
+   
+   button:hover {
+    color: rgb(0, 0, 0);
+   }
+   
+   button:after {
+    content: "";
+    background: rgb(251, 5, 5);
+    position: absolute;
+    z-index: -1;
+    left: -20%;
+    right: -20%;
+    top: 0;
+    bottom: 0;
+    transform: skewX(-45deg) scale(0, 1);
+    transition: all 0.5s;
+   }
+   
+   button:hover:after {
+    transform: skewX(-45deg) scale(1, 1);
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* home css desing 
+.menu-food-text h2:hover span {
+    border: 27px solid rgb(255, 255, 255);
+    color: white;
+    transform: scale(1.1);
+    padding: 1px 4px 1px;
+    --btn-color:#43e8f7;
+    
+}
+*/
+.before{
+    background-color: #fbfbfb;
+    padding: 2rem 0;
+}
+.before{
+    width: 100%;
+}
+
+.main-footer{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.main-footer img{
+    width: 200px;
+}
+.footer-navbar{
+    margin-top: 15px;
+}
+.footer-navbar a{
+    color: hsl(186, 86%, 44%);
+    font-size: 18px;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* home css desing 
+@media (max-width:767px) {
+    .header{
+        padding: 3rem;
+    }
+    .icons div{
+        display: initial;
+    }
+    .navbar{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        left: 0;
+        top: 100%;
+        background-color: var(--btn-color);
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+
+
+    }
+    .navbar a{
+        display: block;
+        text-align: center;
+        margin: 1rem;
+        padding: 1rem;
+        left: 200;
+    }
+
+   
+
+    .home-text-content{
+        padding: 0 2rem;
+    }
+    .main-home{
+        padding: 2rem 0;
+    }
+    .home{
+        padding-top: 100px;
+        
+    }
+    .home-image img{
+        transform: translate(0%, 0%);
+    }
+    .home-text-content{
+        margin-top: 300px;
+    }
+    .about-content .about-inner-content img{
+        width: 100%;
+        margin: 0;
+        padding: 1rem;
+    }
+    .quality-content{
+        padding: 1rem 2rem;
+    }
+    .quality-content h1{
+        color: var(--about-sec)
+    }
+    .food-main-content{
+        width: 100%;
+        border: 4px solid rgb(157, 44, 44);
+        padding: 1rem;
+     
+    }
+
+    .footer-navbar a{
+        display: block;
+      
+    }
+
+}
+*/
+
+
+
+
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .rating {
+    display: inline-block;
+    font-size: 0;
+    position: relative;
+    text-transform: capitalize;
+    padding: 0 50px 8%;
+    color: rgb(2, 247, 255);
+  }
+    
+  label {
+    float: right;
+    padding: 0;
+    font-size: 60px;
+    cursor: pointer;
+  
+  }   
+  label::before {
+    content: "\2606";
+    padding-bottom: 8px;
+    display: inline-block;
+    transition: 0.2s;
+  
+  } 
+  span {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 20px;
+    font-size: 2rem;
+    white-space: nowrap;
+    transition: 0.15s ease-out;
+    pointer-events: none;
+    letter-spacing: -2px;
+    transform: translateY(-50%);
+  } 
+  label:hover span {
+    opacity: 1;
+    transform: none;
+    letter-spacing: 0;
+    color: #ffffff;
+   
+  }
+  input:checked ~ label::before {
+    content: "\2605";
+    color: rgb(251, 243, 12);
+    filter: drop-shadow(0 0 4px);
+    transform: rotate(.2turn);
+    transition-delay: calc(0.1 * attr(data-idx integer));
+  }
+  

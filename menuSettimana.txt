@@ -1,0 +1,230 @@
+
+
+menù normale:
+
+piatti del giorno 1
+antipasto	nome piatto: olive all'ascolana
+primi	nome piatto: risotto alla salsiccia
+secondi	nome piatto: filetto al pepe e verdure
+contorni	nome piatto: patate fritte
+dolci	nome piatto: panna cotta
+piatti del giorno 2
+antipasto	nome piatto: tartare di pesce
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: arrosto di vitello
+contorni	nome piatto: insalata
+dolci	nome piatto: crema alla catalana
+piatti del giorno 3
+antipasto	nome piatto: tagliere salumi
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: brasato al barolo
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: panna cotta
+piatti del giorno 4
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: riso al nero di seppia con gamberi
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: purè di patate
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 5
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: tortellini cacio e pepe
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: dorayaki
+piatti del giorno 6
+antipasto	nome piatto: vitello tonnato
+primi	nome piatto: pasta allo scoglio
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: patate al forno
+dolci	nome piatto: panna e ricotta al caffè
+piatti del giorno 7
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: osso buco
+secondi	nome piatto: tagliata di carne con verdure e pomodorini
+contorni	nome piatto: insalata
+dolci	nome piatto: macedonia di frutta
+
+
+menù per vegani:
+
+piatti del giorno 1
+antipasto	nome piatto: fiori di zucca fritti
+primi	nome piatto: pasta con fagioli
+secondi	nome piatto: pizza con bufala
+contorni	nome piatto: patate fritte
+dolci	nome piatto: sacher
+piatti del giorno 2
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: pizza con bufala
+contorni	nome piatto: insalata
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 3
+antipasto	nome piatto: tartare di pesce
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: pizza con bufala
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 4
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: pasta con fagioli
+secondi	nome piatto: polenta e salsiccia
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 5
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 6
+antipasto	nome piatto: capesante gratinate
+primi	nome piatto: pasta allo scoglio
+secondi	nome piatto: polenta e salsiccia
+contorni	nome piatto: patate al forno
+dolci	nome piatto: sacher
+piatti del giorno 7
+antipasto	nome piatto: capesante gratinate
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: polenta e salsiccia
+contorni	nome piatto: insalata
+dolci	nome piatto: macedonia di frutta
+
+
+menù per vegetariani:
+
+piatti del giorno 1
+antipasto	nome piatto: tagliere formaggi
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: parmigiana
+contorni	nome piatto: patate fritte
+dolci	nome piatto: panna cotta
+piatti del giorno 2
+antipasto	nome piatto: arancini
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: pizza con bufala
+contorni	nome piatto: insalata
+dolci	nome piatto: crema alla catalana
+piatti del giorno 3
+antipasto	nome piatto: vitello tonnato
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: panna cotta
+piatti del giorno 4
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: pasta con fagioli
+secondi	nome piatto: pizza con bufala
+contorni	nome piatto: purè di patate
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 5
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: dorayaki
+piatti del giorno 6
+antipasto	nome piatto: capesante gratinate
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: polenta e salsiccia
+contorni	nome piatto: patate al forno
+dolci	nome piatto: panna e ricotta al caffè
+piatti del giorno 7
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: polenta e salsiccia
+contorni	nome piatto: insalata
+dolci	nome piatto: macedonia di frutta
+
+
+menù per problemi religiosi:
+
+piatti del giorno 1
+antipasto	nome piatto: crocchette di patate
+primi	nome piatto: pasta con tonno
+secondi	nome piatto: filetto al pepe e verdure
+contorni	nome piatto: patate fritte
+dolci	nome piatto: panna cotta
+piatti del giorno 2
+antipasto	nome piatto: tartare di pesce
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: brasato al barolo
+contorni	nome piatto: insalata
+dolci	nome piatto: crema alla catalana
+piatti del giorno 3
+antipasto	nome piatto: capesante gratinate
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: brasato al barolo
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: panna cotta
+piatti del giorno 4
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: riso al nero di seppia con gamberi
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: purè di patate
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 5
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: pasta alle nerano
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: dorayaki
+piatti del giorno 6
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: pasta allo scoglio
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: patate al forno
+dolci	nome piatto: panna e ricotta al caffè
+piatti del giorno 7
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: pasta con tonno
+secondi	nome piatto: spezzatino di capriolo
+contorni	nome piatto: insalata
+dolci	nome piatto: macedonia di frutta
+
+
+menù per allergeni:
+
+piatti del giorno 1
+antipasto	nome piatto: olive all'ascolana
+primi	nome piatto: risotto alla salsiccia
+secondi	nome piatto: filetto al pepe e verdure
+contorni	nome piatto: patate fritte
+dolci	nome piatto: panna cotta
+piatti del giorno 2
+antipasto	nome piatto: tartare di pesce
+primi	nome piatto: pasta al pomodoro
+secondi	nome piatto: arrosto di vitello
+contorni	nome piatto: insalata
+dolci	nome piatto: crema alla catalana
+piatti del giorno 3
+antipasto	nome piatto: tagliere salumi
+primi	nome piatto: pasta al pesto
+secondi	nome piatto: brasato al barolo
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: panna cotta
+piatti del giorno 4
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: riso al nero di seppia con gamberi
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: purè di patate
+dolci	nome piatto: sorbetto al limone
+piatti del giorno 5
+Antipasto	nome piatto: bruschetta
+primi	nome piatto: tortellini cacio e pepe
+secondi	nome piatto: parmigiana
+contorni	nome piatto: verdure alla griglia
+dolci	nome piatto: dorayaki
+piatti del giorno 6
+antipasto	nome piatto: vitello tonnato
+primi	nome piatto: pasta allo scoglio
+secondi	nome piatto: coscie di pollo al forno
+contorni	nome piatto: patate al forno
+dolci	nome piatto: panna e ricotta al caffè
+piatti del giorno 7
+antipasto	nome piatto: gnocco fritto
+primi	nome piatto: osso buco
+secondi	nome piatto: tagliata di carne con verdure e pomodorini
+contorni	nome piatto: insalata
+dolci	nome piatto: macedonia di frutta

@@ -1,0 +1,471 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background: url(images/scampizza\ dio.png);
+    background-size: cover;
+    background-position:top 20px;
+}
+
+.container{
+    margin: 50px 0;
+}
+
+
+.alio {
+    position:absolute;
+    left: 20px;
+    top: 213px;
+   left: 327px;
+   }
+
+   .alio a{
+    color: #fff;
+    text-decoration: none;
+
+   }
+   
+   button {
+       position: relative;
+       display: flex;
+       border-radius: 5px;
+       background: #000000;
+       font-family: "Montserrat", sans-serif;
+       box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+       overflow: hidden;
+       border: none;
+      }
+      
+      button:after {
+       content: " ";
+       width: 0%;
+       height: 100%;
+       background: #FFD401;
+       position: absolute;
+       transition: all 0.4s ease-in-out;
+       right: 0;
+      }
+      
+      button:hover::after {
+       right: auto;
+       left: 0;
+       width: 100%;
+      }
+      
+      button span {
+       text-decoration: none;
+       width: 100%;
+       padding: 18px 25px;
+       color: #fff;
+       font-size: 1.125em;
+       font-weight: 700;
+       letter-spacing: 0.3em;
+       z-index: 20;
+       transition: all 0.3s ease-in-out;
+       
+      }
+      
+      button:hover span {
+       color: #183153;
+       animation: scaleUp 0.3s ease-in-out;
+      }
+      
+      @keyframes scaleUp {
+       0% {
+        transform: scale(1);
+       }
+      
+       50% {
+        transform: scale(0.95);
+       }
+      
+       100% {
+        transform: scale(1);
+       }
+      }
+
+
+
+
+
+
+      .abio{
+        position:absolute;
+        left: 20px;
+        top: 213px;
+       left: 650px;
+       }
+       .abio a{
+        color: #fff;
+        text-decoration: none;
+    
+       }
+       
+       button {
+           position: relative;
+           display: flex;
+           border-radius: 5px;
+           background: #121212;
+           font-family: "Montserrat", sans-serif;
+           box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+           overflow: hidden;
+           border: none;
+          }
+          
+          button:after {
+           content: " ";
+           width: 0%;
+           height: 100%;
+           background: #21e9f7;
+           position: absolute;
+           transition: all 0.4s ease-in-out;
+           right: 0;
+          }
+          
+          button:hover::after {
+           right: auto;
+           left: 0;
+           width: 100%;
+          }
+          
+          button span {
+           text-decoration: none;
+           width: 100%;
+           padding: 18px 25px;
+           color: #fff;
+           font-size: 1.125em;
+           font-weight: 700;
+           letter-spacing: 0.3em;
+           z-index: 20;
+           transition: all 0.3s ease-in-out;
+          }
+          
+          button:hover span {
+           color: #f8f8f8;
+           animation: scaleUp 0.3s ease-in-out;
+          }
+          
+          @keyframes scaleUp {
+           0% {
+            transform: scale(1);
+           }
+          
+           50% {
+            transform: scale(0.95);
+           }
+          
+           100% {
+            transform: scale(1);
+           }
+          }
+
+
+
+
+          .zao{
+            position:absolute;
+            left: 20px;
+            top: 213px;
+            left: 927px;
+           }
+           .zao a{
+            color: #fff;
+            text-decoration: none;
+        
+           }
+           
+           button {
+               position: relative;
+               display: flex;
+               border-radius: 5px;
+               background: #d01212;
+               font-family: "Montserrat", sans-serif;
+               box-shadow: 0px 6px 24px 0px rgba(213, 62, 62, 0.2);
+               overflow: hidden;
+               border: none;
+              }
+              
+              button:after {
+               content: " ";
+               width: 0%;
+               height: 100%;
+               background: #fffffe;
+               position: absolute;
+               transition: all 0.4s ease-in-out;
+               right: 0;
+              }
+              
+              button:hover::after {
+               right: auto;
+               left: 0;
+               width: 100%;
+              }
+              
+              button span {
+               text-decoration: none;
+               width: 100%;
+               padding: 18px 25px;
+               color: #fff;
+               font-size: 1.125em;
+               font-weight: 700;
+               letter-spacing: 0.3em;
+               z-index: 20;
+               transition: all 0.3s ease-in-out;
+              }
+              
+              button:hover span {
+               color: #183153;
+               animation: scaleUp 0.3s ease-in-out;
+              }
+              
+              @keyframes scaleUp {
+               0% {
+                transform: scale(1);
+               }
+              
+               50% {
+                transform: scale(0.95);
+               }
+              
+               100% {
+                transform: scale(1);
+               }
+              }
+
+
+
+
+
+
+
+              .agro{
+                position:absolute;
+                left: 20px;
+                top: 310px;
+                 left: 770px;
+               }
+               .agro a{
+                color: #fff;
+                text-decoration: none;
+            
+               }
+               
+               button {
+                   position: relative;
+                   display: flex;
+                   border-radius: 5px;
+                   background: #000000;
+                   font-family: "Montserrat", sans-serif;
+                   box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+                   overflow: hidden;
+                   border: none;
+                  }
+                  
+                  button:after {
+                   content: " ";
+                   width: 0%;
+                   height: 100%;
+                   background: #FFD401;
+                   position: absolute;
+                   transition: all 0.4s ease-in-out;
+                   right: 0;
+                  }
+                  
+                  button:hover::after {
+                   right: auto;
+                   left: 0;
+                   width: 100%;
+                  }
+                  
+                  button span {
+                   text-decoration: none;
+                   width: 100%;
+                   padding: 18px 25px;
+                   color: #fff;
+                   font-size: 1.125em;
+                   font-weight: 700;
+                   letter-spacing: 0.3em;
+                   z-index: 20;
+                   transition: all 0.3s ease-in-out;
+                  }
+                  
+                  button:hover span {
+                   color: #183153;
+                   animation: scaleUp 0.3s ease-in-out;
+                  }
+                  
+                  @keyframes scaleUp {
+                   0% {
+                    transform: scale(1);
+                   }
+                  
+                   50% {
+                    transform: scale(0.95);
+                   }
+                  
+                   100% {
+                    transform: scale(1);
+                   }
+                  }
+
+
+
+
+
+
+
+                  .nou{
+                    position:absolute;
+                    left: 20px;
+                    top: 310px;
+                     left: 327px;
+                   }
+                   .nou a{
+                    color: #fff;
+                    text-decoration: none;
+                
+                   }
+                   
+                   button {
+                       position: relative;
+                       display: flex;
+                       border-radius: 5px;
+                       background: #000000;
+                       font-family: "Montserrat", sans-serif;
+                       box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+                       overflow: hidden;
+                       border: none;
+                      }
+                      
+                      button:after {
+                       content: " ";
+                       width: 0%;
+                       height: 100%;
+                       background: #FFD401;
+                       position: absolute;
+                       transition: all 0.4s ease-in-out;
+                       right: 0;
+                      }
+                      
+                      button:hover::after {
+                       right: auto;
+                       left: 0;
+                       width: 100%;
+                      }
+                      
+                      button span {
+                       text-decoration: none;
+                       width: 100%;
+                       padding: 18px 25px;
+                       color: #fff;
+                       font-size: 1.125em;
+                       font-weight: 700;
+                       letter-spacing: 0.3em;
+                       z-index: 20;
+                       transition: all 0.3s ease-in-out;
+                      }
+                      
+                      button:hover span {
+                       color: #183153;
+                       animation: scaleUp 0.3s ease-in-out;
+                      }
+                      
+                      @keyframes scaleUp {
+                       0% {
+                        transform: scale(1);
+                       }
+                      
+                       50% {
+                        transform: scale(0.95);
+                       }
+                      
+                       100% {
+                        transform: scale(1);
+                       }
+                      }
+
+
+                      .bao{
+                        position:absolute;
+                        left: 20px;
+                        top: 610px;
+                        left: 570px;
+                       }
+                       .bao a{
+                        color: #fff;
+                        text-decoration: none;
+                    
+                       }
+                       
+                       button {
+                           position: relative;
+                           display: flex;
+                           border-radius: 5px;
+                           background: #000000;
+                           font-family: "Montserrat", sans-serif;
+                           box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+                           overflow: hidden;
+                           border: none;
+                          }
+                          
+                          button:after {
+                           content: " ";
+                           width: 0%;
+                           height: 100%;
+                           background: #FFD401;
+                           position: absolute;
+                           transition: all 0.4s ease-in-out;
+                           right: 0;
+                          }
+                          
+                          button:hover::after {
+                           right: auto;
+                           left: 0;
+                           width: 100%;
+                          }
+                          
+                          button span {
+                           text-decoration: none;
+                           width: 100%;
+                           padding: 18px 25px;
+                           color: #fff;
+                           font-size: 1.125em;
+                           font-weight: 700;
+                           letter-spacing: 0.3em;
+                           z-index: 20;
+                           transition: all 0.3s ease-in-out;
+                          }
+                          
+                          button:hover span {
+                           color: #183153;
+                           animation: scaleUp 0.3s ease-in-out;
+                          }
+                          
+                          @keyframes scaleUp {
+                           0% {
+                            transform: scale(1);
+                           }
+                          
+                           50% {
+                            transform: scale(0.95);
+                           }
+                          
+                           100% {
+                            transform: scale(1);
+                           }
+                          }
+
+
+
+
+
+
+
+
+
+
+
